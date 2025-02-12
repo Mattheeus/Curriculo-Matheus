@@ -6,6 +6,6 @@ Este é o currículo online de Matheus Costa Almeida, desenvolvido em HTML e CSS
 
 Você pode acessar o currículo online através do seguinte link:
 
-[Currículo de Matheus Costa Almeida](https://main.d2l5somdhq13z7.amplifyapp.com/)
+[Currículo de Matheus Costa Almeida](https://main.d2q99c1lp3nk9k.amplifyapp.com)
 
 Hospedado no AWS Amplify
